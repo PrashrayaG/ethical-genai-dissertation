@@ -72,5 +72,5 @@ The research employs a mixed-methods approach, combining a systematic literature
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/ethical-genai-dissertation.git
+   git clone https://github.com/PrashrayaG/ethical-genai-dissertation.git
    cd ethical-genai-dissertation
